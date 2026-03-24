@@ -26,8 +26,8 @@ public class PostProcessIOS
             return;
 
         string tapMindPods =
-            "  pod 'TapMindAdapter', '1.0.4'\n" +
-            "  pod 'TapMindSDK', '1.1.5'\n";
+            "  pod 'TapMindAdapter', '2.1.1'\n" +
+            "  pod 'TapMindSDK', '1.1.7'\n";
 
         // Insert pods before `end` of UnityFramework target
         string targetBlock = "target 'UnityFramework' do";
