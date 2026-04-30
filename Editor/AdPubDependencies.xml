@@ -12,7 +12,7 @@
   </androidPackages>
 
   <iosPods>
-    <iosPod name="TapMindAdapter" version="2.1.5">
+    <iosPod name="TapMindAdapter" version="2.1.10">
       <sources>
         <source>https://github.com/CocoaPods/Specs</source>
       </sources>
